@@ -1,0 +1,50 @@
+.bor{
+border-bottom:2px solid #B3B3B3;
+border-left:2px solid #B3B3B3;
+}
+
+*{
+font-family:"Trebuchet MS";
+}
+
+.head{
+font-size:200%;
+}
+
+.mister{
+width:280;
+height:280px;
+}
+
+
+.gallery{
+border: 1px solid #000000;
+height: 300px;
+}
+
+.pagecontent{
+border:1px solid #444444;
+padding:10px 10px 10px 10px; 
+margin: 0px;
+font-family:"Trebuchet MS";
+font-size:85%;
+letter-spacing:1px;
+}
+
+
+.side{
+margin-top:15px;
+border-left:2px solid red;
+padding:0px 0px 0px 10px;
+margin-left:10px;
+}
+
+.content{
+padding-top:10px;
+}
+
+a *{
+border: 0;
+font-family:"Trebuchet MS";
+text-decoration:none;
+}
